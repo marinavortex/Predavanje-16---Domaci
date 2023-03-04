@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.bg-purple {
+	background-color: purple;
+}
+
+.divHolder div {
+	height: 300px;
+}
